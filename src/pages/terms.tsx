@@ -1,3 +1,3 @@
-import { terms } from 'containers';
+import { Terms } from "containers";
 
-export default terms;
+export default Terms;
